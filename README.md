@@ -1,4 +1,5 @@
-# ISBDSCourse
+# `ISBDSCourse` <img src="doc/images/NCATS_AI_banner_1100x420.png" height="120" align="right" alt="AI banner, c/o NIH-NCATS">
+<small><i>(Image c/o NIH-NCATS)</i></small>
 
 Independent Study in Biomedical Data Science (ISBDS)
 
