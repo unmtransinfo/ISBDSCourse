@@ -21,7 +21,7 @@ __Independent Study in Biomedical Data Science (ISBDS)__
 ssh yourusername@wheeler.alliance.unm.edu
 ``` 
   Enter the password provided by the CARC admin. You shall see a welcome message. 
- * Step 3: Since this may be is the first time you are logging in, you need to change your password to something different from CARC admin's password. Use following command to change your password
+ * Step 3: Since this may be the first time you are logging in, you need to change your password to something different from CARC admin's password. Use following command to change your password
 ```
 passwd
 ``` 
