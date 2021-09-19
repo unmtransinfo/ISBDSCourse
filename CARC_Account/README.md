@@ -49,8 +49,8 @@ Sl. No. | Commands | Actions
 16 | `qsub -I` | Access a node interactively
 17 | `qsub PBSscript.sh` | Run a PBS script
 
+# (IV) How to access servers via JupyterHub? 
 
- 
 
 
 
