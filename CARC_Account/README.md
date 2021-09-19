@@ -9,7 +9,7 @@ __Independent Study in Biomedical Data Science (ISBDS)__
   * Category: Project accounts are for classes and workshops
   * Order by: PI 
   * Click Refresh List
-  * Then click on Project ID 2016213 for Independent Study in Biomedical Data Science (ISBDS) course with Jeremy Yand as PI 
+  * Then click on Project ID 2016213 for Independent Study in Biomedical Data Science (ISBDS) course with Jeremy Yang as PI 
 * Step 4: Select Wheeler and Xena clusters and hit Submit as shown below
 * Step 5: Upon approval of your account, you will receive an email with instructions to obtain your passwords for both the clusters
 
