@@ -77,7 +77,7 @@ Sl. No. | Commands | Actions
 
   <img src="jhubstep2a.png" width="500"> 
   
-* Step 3: You can access the terminal from here as shown below
+* Step 3: You can access the terminal from JupyterHub as shown below
 
   <img src="jhubstep3.png" width="500"> 
   
