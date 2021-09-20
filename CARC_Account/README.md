@@ -64,7 +64,11 @@ Sl. No. | Commands | Actions
 
 # (IV) How to access servers via JupyterHub? 
 
-* Step 1: Go to [Xena Cluster JupyterHub](https://xena.alliance.unm.edu:8000/hub/login) link, enter your username and password and sign in 
+* Step 1: Go to [Xena Cluster JupyterHub](https://xena.alliance.unm.edu:8000/hub/login) link, enter your username and password and sign in  
+  
+  Alternatively, you can go to [Wheeler Cluster JupyterHub](https://wheeler.alliance.unm.edu:8000/hub/login) as well 
+  
+  Select required server option
 
   <img src="jhubstep1.png" width="500"> 
   <img src="jhubstep1a.png" width="500">
@@ -73,7 +77,7 @@ Sl. No. | Commands | Actions
 
   <img src="jhubstep2a.png" width="500"> 
   
-* Step 3: You can access the terminal from here as well as shown below
+* Step 3: You can access the terminal from here as shown below
 
   <img src="jhubstep3.png" width="500"> 
   
@@ -104,6 +108,6 @@ Sl. No. | Commands | Actions
 20 | `qsub -I` | Access a node interactively
 21 | `ls`|  Get list of files 
 22 | `qstat` | Check current users 
-23 | `conda install -n mypyenv nameofpackage` | Install package without activating the environment 
+23 | `conda install -n mypyenv nameofpackage nameofpackage` | Install packages without activating the environment 
 
 [*] environment needs to be active where the packages are required
