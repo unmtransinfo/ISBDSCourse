@@ -9,4 +9,3 @@ See also:
 
 * [ISBDS Course Home Page](https://datascience.unm.edu/isbdscourse/)
 
-#VTM edit test Sept 23
