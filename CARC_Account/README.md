@@ -110,4 +110,4 @@ Sl. No. | Commands | Actions
 22 | `qstat` | Check current users 
 23 | `conda install -n mypyenv nameofpackage nameofpackage` | Install packages without activating the environment 
 
-[*] environment needs to be active where the packages are required
+[*] environment needs to be active in which the packages are required
