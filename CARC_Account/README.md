@@ -1,7 +1,7 @@
 
 __Independent Study in Biomedical Data Science (ISBDS)__
 
-# (I) How to setup your account for computations on Center for Advanced Research and Computing (CARC) at UNM? 
+# (I/V) How to setup your account for computations on Center for Advanced Research and Computing (CARC) at UNM? 
 
 * Step 1: Go to [UNM CARC - Request and account](https://carc.unm.edu/new-users/request-an-account1.html) link and accept CARC User Agreement
 * Step 2: If you have previously had an account on CARC, select the first option otherwise enter information as a new person and click Next 
@@ -22,7 +22,7 @@ __Independent Study in Biomedical Data Science (ISBDS)__
 
 * Step 5: Upon approval of your account, you will receive an email with instructions to obtain your passwords for both the clusters
 
-# (II) After you have obtained your passwords for the two clusters
+# (II/V) After you have obtained your passwords for the two clusters
 
 * Step 1: Open Terminal (command line) on your local machine (laptop/desktop)
 * Step 2: Type the following command and hit enter 
@@ -39,7 +39,7 @@ passwd
 ``` 
  * Step 4: Follow steps 2-3 on Xena cluster by replacing 'wheeler' with 'xena' in the `ssh` command in step 2
 
-# (III) Some useful commands on Terminal on local machine 
+# (III/V) Some useful commands on Terminal on local machine 
 
 Sl. No. | Commands | Actions
 ------------ | ------------- | ------------
@@ -62,7 +62,7 @@ Sl. No. | Commands | Actions
 17 | `qsub -I` | Access a node interactively
 18 | `qsub PBSscript.sh` | Run a PBS script
 
-# (IV) How to access servers via JupyterHub? 
+# (IV/V) How to access servers via JupyterHub? 
 
 * Step 1: Go to [Xena Cluster JupyterHub](https://xena.alliance.unm.edu:8000/hub/login) link, enter your username and password and sign in  
   
@@ -81,7 +81,7 @@ Sl. No. | Commands | Actions
 
   <img src="jhubstep3.png" width="500"> 
   
-# (V) Some useful commands on Terminal via JupyterHub 
+# (V/V) Some useful commands on Terminal via JupyterHub 
   Most of the commands from section (III) will work here as well 
  
 Sl. No. | Commands | Actions
