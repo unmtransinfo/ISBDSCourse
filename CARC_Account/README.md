@@ -6,7 +6,7 @@ __Independent Study in Biomedical Data Science (ISBDS)__
 * Step 1: Go to [UNM CARC - Request and account](https://carc.unm.edu/new-users/request-an-account1.html) link and accept CARC User Agreement
 * Step 2: If you have previously had an account on CARC, select the first option otherwise enter information as a new person and click Next 
 
-  <img src="step2.png" width="500">
+  <img src="images/step2.png" width="500">
 
 * Step 3: Select following options as shown in image below
   * Category: Project accounts are for classes and workshops
