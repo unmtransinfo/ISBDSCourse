@@ -14,11 +14,11 @@ __Independent Study in Biomedical Data Science (ISBDS)__
   * Click Refresh List
   * Then click on Project ID 2016213 for Independent Study in Biomedical Data Science (ISBDS) course with Jeremy Yang as PI 
 
-  <img src="step3.png" width="500">
+  <img src="images/step3.png" width="500">
 
 * Step 4: Select Wheeler and Xena clusters and hit Submit as shown below
 
-  <img src="step4.png" width="500">
+  <img src="images/step4.png" width="500">
 
 * Step 5: Upon approval of your account, you will receive an email with instructions to obtain your passwords for both the clusters
 
@@ -31,7 +31,7 @@ ssh yourusername@wheeler.alliance.unm.edu
 ``` 
    Enter the password provided by the CARC admin. You shall see a welcome message. 
   
-   <img src="afterstep2.png" width="500">  
+   <img src="images/afterstep2.png" width="500">  
   
  * Step 3: Since this may be the first time you are logging in, you need to change your password to something different from CARC admin's password. Use following command to change your password
 ```
@@ -70,16 +70,16 @@ Sl. No. | Commands | Actions
   
   Select required server option
 
-  <img src="jhubstep1.png" width="500"> 
-  <img src="jhubstep1a.png" width="500">
+  <img src="images/jhubstep1.png" width="500"> 
+  <img src="images/jhubstep1a.png" width="500">
   
 * Step 2: Under New tab you can open a new Notebook in Python 3 environment
 
-  <img src="jhubstep2a.png" width="500"> 
+  <img src="images/jhubstep2a.png" width="500"> 
   
 * Step 3: You can access the terminal from JupyterHub as shown below
 
-  <img src="jhubstep3.png" width="500"> 
+  <img src="images/jhubstep3.png" width="500"> 
   
 # (5/5) Some useful commands on Terminal via JupyterHub 
   Most of the commands from section (III) will work here as well 
