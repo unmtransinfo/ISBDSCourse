@@ -30,7 +30,7 @@ of 2024, as a fully remote, online course.
  * Vincent Metzger, Lead Advisor <vtmetzger@salud.unm.edu>
  * Feel free to contact us with any questions about the course.
 
-See also:
+## See also:
 
 * [ISBDS Course Home Page](https://datascience.unm.edu/isbdscourse/)
 * [CFDE NIH Home Page](https://commonfund.nih.gov/dataecosystem)
